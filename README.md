@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/animesh68/LarpingDSA/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/animesh68/LarpingDSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/animesh68/LarpingDSA/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/animesh68/LarpingDSA/tree/master/0061-rotate-list) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
