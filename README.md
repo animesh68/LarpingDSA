@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/animesh68/LarpingDSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/animesh68/LarpingDSA/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/animesh68/LarpingDSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/animesh68/LarpingDSA/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -27,6 +28,7 @@
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/animesh68/LarpingDSA/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -75,5 +77,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/animesh68/LarpingDSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
