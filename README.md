@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/animesh68/LarpingDSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/animesh68/LarpingDSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/animesh68/LarpingDSA/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
@@ -85,4 +87,8 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/animesh68/LarpingDSA/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
