@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/animesh68/LarpingDSA/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/animesh68/LarpingDSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/animesh68/LarpingDSA/tree/master/0643-maximum-average-subarray-i) |
@@ -97,6 +98,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/animesh68/LarpingDSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/animesh68/LarpingDSA/tree/master/0724-find-pivot-index) |
 ## Matrix
