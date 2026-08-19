@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/animesh68/LarpingDSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/animesh68/LarpingDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/animesh68/LarpingDSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/animesh68/LarpingDSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/animesh68/LarpingDSA/tree/master/0875-koko-eating-bananas) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/animesh68/LarpingDSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
