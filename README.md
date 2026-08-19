@@ -14,6 +14,7 @@
 | [0724-find-pivot-index](https://github.com/animesh68/LarpingDSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/animesh68/LarpingDSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/animesh68/LarpingDSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/animesh68/LarpingDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0074-search-a-2d-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/animesh68/LarpingDSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/animesh68/LarpingDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
 |  |
 | ------- |
