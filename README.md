@@ -35,6 +35,7 @@
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/animesh68/LarpingDSA/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -43,6 +44,7 @@
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/animesh68/LarpingDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/animesh68/LarpingDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Greedy
@@ -100,5 +102,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/animesh68/LarpingDSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
