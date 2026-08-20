@@ -43,6 +43,7 @@
 | [0409-longest-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/animesh68/LarpingDSA/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/animesh68/LarpingDSA/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -53,6 +54,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/animesh68/LarpingDSA/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/animesh68/LarpingDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/animesh68/LarpingDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Greedy
@@ -88,6 +90,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/animesh68/LarpingDSA/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/animesh68/LarpingDSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/animesh68/LarpingDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/animesh68/LarpingDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/animesh68/LarpingDSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/animesh68/LarpingDSA/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
