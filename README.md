@@ -39,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/animesh68/LarpingDSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/animesh68/LarpingDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -80,6 +81,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/animesh68/LarpingDSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/animesh68/LarpingDSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/animesh68/LarpingDSA/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/animesh68/LarpingDSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/animesh68/LarpingDSA/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/animesh68/LarpingDSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -146,4 +149,8 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
