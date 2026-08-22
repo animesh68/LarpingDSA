@@ -16,6 +16,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/animesh68/LarpingDSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/animesh68/LarpingDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/animesh68/LarpingDSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/animesh68/LarpingDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0409-longest-palindrome) |
@@ -74,6 +76,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/animesh68/LarpingDSA/tree/master/1189-maximum-number-of-balloons) |
@@ -146,6 +149,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -154,6 +158,7 @@
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/animesh68/LarpingDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +167,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -171,6 +177,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -179,4 +186,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
