@@ -169,4 +169,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/animesh68/LarpingDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
