@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/animesh68/LarpingDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/animesh68/LarpingDSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
@@ -196,6 +197,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
 ## Bucket Sort
@@ -214,4 +216,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
