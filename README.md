@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/animesh68/LarpingDSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/animesh68/LarpingDSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/animesh68/LarpingDSA/tree/master/0739-daily-temperatures) |
@@ -234,12 +235,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
