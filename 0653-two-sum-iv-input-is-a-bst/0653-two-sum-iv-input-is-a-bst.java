@@ -20,7 +20,7 @@ class Solution {
         traverse(root,k,arr);
         int i = 0;
         int j = arr.size() - 1;
-        for(;i<j;){
+        while(i<j){
             int low = arr.get(i);
             int high = arr.get(j);
             if(low+high==k) return true;
