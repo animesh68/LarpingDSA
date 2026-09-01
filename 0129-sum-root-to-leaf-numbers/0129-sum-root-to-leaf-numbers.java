@@ -16,7 +16,7 @@
 class Solution {
     int res = 0;
     public int sumNumbers(TreeNode root) {
-        if(root==null) return root.val;
+        if(root==null) return 0;
         solveTS(root,0);
         return res;
     }
