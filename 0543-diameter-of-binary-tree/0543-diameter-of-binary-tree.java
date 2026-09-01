@@ -17,7 +17,7 @@ class Solution {
     int res = 0;
     public int diameterOfBinaryTree(TreeNode root) {
         if(root==null) return 0;
-        bounce(root,0);
+        int z = bounce(root,0);
         return res;
     }
     public int bounce(TreeNode root, int sum){
