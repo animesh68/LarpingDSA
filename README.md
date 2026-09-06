@@ -203,6 +203,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/animesh68/LarpingDSA/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/animesh68/LarpingDSA/tree/master/2235-add-two-integers) |
