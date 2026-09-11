@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/animesh68/LarpingDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/animesh68/LarpingDSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/animesh68/LarpingDSA/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/animesh68/LarpingDSA/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/animesh68/LarpingDSA/tree/master/0994-rotting-oranges) |
@@ -139,6 +140,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/animesh68/LarpingDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/animesh68/LarpingDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/animesh68/LarpingDSA/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/animesh68/LarpingDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
@@ -157,6 +159,7 @@
 | [0200-number-of-islands](https://github.com/animesh68/LarpingDSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/animesh68/LarpingDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/animesh68/LarpingDSA/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
@@ -195,6 +198,7 @@
 | [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
 ## Floyd's Cycle Finding Algorithm
@@ -296,6 +300,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/animesh68/LarpingDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/animesh68/LarpingDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/animesh68/LarpingDSA/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -339,6 +344,7 @@
 | [0226-invert-binary-tree](https://github.com/animesh68/LarpingDSA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/animesh68/LarpingDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/animesh68/LarpingDSA/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/animesh68/LarpingDSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/animesh68/LarpingDSA/tree/master/0994-rotting-oranges) |
@@ -370,6 +376,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/animesh68/LarpingDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/animesh68/LarpingDSA/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/animesh68/LarpingDSA/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -393,5 +400,10 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
