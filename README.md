@@ -199,6 +199,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/animesh68/LarpingDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
 ## Floyd's Cycle Finding Algorithm
@@ -225,6 +226,7 @@
 | [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/animesh68/LarpingDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -302,6 +304,7 @@
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/animesh68/LarpingDSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/animesh68/LarpingDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -346,6 +349,7 @@
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/animesh68/LarpingDSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/animesh68/LarpingDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/animesh68/LarpingDSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/animesh68/LarpingDSA/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
@@ -384,6 +388,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/animesh68/LarpingDSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/animesh68/LarpingDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -396,6 +401,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/animesh68/LarpingDSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/animesh68/LarpingDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
