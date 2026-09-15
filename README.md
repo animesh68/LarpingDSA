@@ -221,6 +221,7 @@
 | [2235-add-two-integers](https://github.com/animesh68/LarpingDSA/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/animesh68/LarpingDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/animesh68/LarpingDSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/animesh68/LarpingDSA/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
