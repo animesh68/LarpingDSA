@@ -217,6 +217,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/animesh68/LarpingDSA/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/animesh68/LarpingDSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/animesh68/LarpingDSA/tree/master/2235-add-two-integers) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/animesh68/LarpingDSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/animesh68/LarpingDSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/animesh68/LarpingDSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -246,6 +248,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/animesh68/LarpingDSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
