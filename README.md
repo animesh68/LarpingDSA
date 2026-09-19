@@ -14,6 +14,7 @@
 | [0130-surrounded-regions](https://github.com/animesh68/LarpingDSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/animesh68/LarpingDSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/animesh68/LarpingDSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/animesh68/LarpingDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/animesh68/LarpingDSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/animesh68/LarpingDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
