@@ -45,6 +45,7 @@
 | [0503-next-greater-element-ii](https://github.com/animesh68/LarpingDSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/animesh68/LarpingDSA/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/animesh68/LarpingDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0567-permutation-in-string](https://github.com/animesh68/LarpingDSA/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/animesh68/LarpingDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/animesh68/LarpingDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
