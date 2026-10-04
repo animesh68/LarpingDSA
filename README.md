@@ -41,6 +41,7 @@
 | [0994-rotting-oranges](https://github.com/animesh68/LarpingDSA/tree/master/0994-rotting-oranges) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/animesh68/LarpingDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
+| [1710-maximum-units-on-a-truck](https://github.com/animesh68/LarpingDSA/tree/master/1710-maximum-units-on-a-truck) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/animesh68/LarpingDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
@@ -99,6 +100,7 @@
 | [0055-jump-game](https://github.com/animesh68/LarpingDSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/animesh68/LarpingDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0409-longest-palindrome) |
+| [1710-maximum-units-on-a-truck](https://github.com/animesh68/LarpingDSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Queue
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
+| [1710-maximum-units-on-a-truck](https://github.com/animesh68/LarpingDSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
