@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/animesh68/LarpingDSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/animesh68/LarpingDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/animesh68/LarpingDSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/animesh68/LarpingDSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/animesh68/LarpingDSA/tree/master/0039-combination-sum) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/animesh68/LarpingDSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/animesh68/LarpingDSA/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/animesh68/LarpingDSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/animesh68/LarpingDSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/animesh68/LarpingDSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
