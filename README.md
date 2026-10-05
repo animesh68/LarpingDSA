@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/animesh68/LarpingDSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/animesh68/LarpingDSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animesh68/LarpingDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/animesh68/LarpingDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/animesh68/LarpingDSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -141,6 +142,7 @@
 | [0015-3sum](https://github.com/animesh68/LarpingDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/animesh68/LarpingDSA/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/animesh68/LarpingDSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/animesh68/LarpingDSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/animesh68/LarpingDSA/tree/master/0234-palindrome-linked-list) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0015-3sum](https://github.com/animesh68/LarpingDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/animesh68/LarpingDSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/animesh68/LarpingDSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
@@ -465,4 +468,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/animesh68/LarpingDSA/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/animesh68/LarpingDSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/animesh68/LarpingDSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
