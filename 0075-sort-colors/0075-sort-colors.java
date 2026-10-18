@@ -11,9 +11,7 @@ class Solution {
                 low++;
                 mid++;
             }
-            else if(nums[mid]==1){
-                mid++;
-            }
+            else if(nums[mid]==1) mid++;
             else{
                 int temp = nums[mid];
                 nums[mid] = nums[high];
