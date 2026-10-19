@@ -46,6 +46,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/animesh68/LarpingDSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/animesh68/LarpingDSA/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/animesh68/LarpingDSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/animesh68/LarpingDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/animesh68/LarpingDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -167,6 +168,7 @@
 | [0567-permutation-in-string](https://github.com/animesh68/LarpingDSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/animesh68/LarpingDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/animesh68/LarpingDSA/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/animesh68/LarpingDSA/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -506,4 +508,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/animesh68/LarpingDSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
