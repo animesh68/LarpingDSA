@@ -45,6 +45,7 @@
 | [0904-fruit-into-baskets](https://github.com/animesh68/LarpingDSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/animesh68/LarpingDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/animesh68/LarpingDSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/animesh68/LarpingDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/animesh68/LarpingDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -89,6 +90,7 @@
 | [0567-permutation-in-string](https://github.com/animesh68/LarpingDSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/animesh68/LarpingDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/animesh68/LarpingDSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/animesh68/LarpingDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/animesh68/LarpingDSA/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -191,6 +193,7 @@
 | [0525-contiguous-array](https://github.com/animesh68/LarpingDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/animesh68/LarpingDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/animesh68/LarpingDSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/animesh68/LarpingDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/animesh68/LarpingDSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
