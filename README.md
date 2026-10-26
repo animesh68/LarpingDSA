@@ -31,6 +31,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/animesh68/LarpingDSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/animesh68/LarpingDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/animesh68/LarpingDSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/animesh68/LarpingDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -80,6 +81,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/animesh68/LarpingDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/animesh68/LarpingDSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -181,6 +183,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/animesh68/LarpingDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/animesh68/LarpingDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/animesh68/LarpingDSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/animesh68/LarpingDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
@@ -228,6 +231,7 @@
 | [0075-sort-colors](https://github.com/animesh68/LarpingDSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/animesh68/LarpingDSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
@@ -274,6 +278,7 @@
 | [0007-reverse-integer](https://github.com/animesh68/LarpingDSA/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/animesh68/LarpingDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/animesh68/LarpingDSA/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/animesh68/LarpingDSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/animesh68/LarpingDSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/animesh68/LarpingDSA/tree/master/2235-add-two-integers) |
@@ -519,4 +524,5 @@
 | ------- |
 | [0136-single-number](https://github.com/animesh68/LarpingDSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/animesh68/LarpingDSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/animesh68/LarpingDSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
