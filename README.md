@@ -21,6 +21,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/animesh68/LarpingDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/animesh68/LarpingDSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/animesh68/LarpingDSA/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/animesh68/LarpingDSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/animesh68/LarpingDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -516,5 +517,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/animesh68/LarpingDSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/animesh68/LarpingDSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
