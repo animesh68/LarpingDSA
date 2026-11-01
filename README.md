@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/animesh68/LarpingDSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/animesh68/LarpingDSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/animesh68/LarpingDSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/animesh68/LarpingDSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/animesh68/LarpingDSA/tree/master/0074-search-a-2d-matrix) |
@@ -82,6 +83,7 @@
 | [0001-two-sum](https://github.com/animesh68/LarpingDSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/animesh68/LarpingDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/animesh68/LarpingDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/animesh68/LarpingDSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/animesh68/LarpingDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
@@ -106,6 +108,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/animesh68/LarpingDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/animesh68/LarpingDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/animesh68/LarpingDSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/animesh68/LarpingDSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
@@ -232,6 +235,7 @@
 | ------- |
 | [0015-3sum](https://github.com/animesh68/LarpingDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/animesh68/LarpingDSA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/animesh68/LarpingDSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/animesh68/LarpingDSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/animesh68/LarpingDSA/tree/master/0217-contains-duplicate) |
