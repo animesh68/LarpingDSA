@@ -527,4 +527,8 @@
 | [0137-single-number-ii](https://github.com/animesh68/LarpingDSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/animesh68/LarpingDSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/animesh68/LarpingDSA/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/animesh68/LarpingDSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
