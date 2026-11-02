@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animesh68/LarpingDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/animesh68/LarpingDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/animesh68/LarpingDSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/animesh68/LarpingDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/animesh68/LarpingDSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/animesh68/LarpingDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/animesh68/LarpingDSA/tree/master/0137-single-number-ii) |
@@ -85,6 +86,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/animesh68/LarpingDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/animesh68/LarpingDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/animesh68/LarpingDSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/animesh68/LarpingDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/animesh68/LarpingDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
@@ -472,6 +474,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/animesh68/LarpingDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/animesh68/LarpingDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/animesh68/LarpingDSA/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/animesh68/LarpingDSA/tree/master/0778-swim-in-rising-water) |
