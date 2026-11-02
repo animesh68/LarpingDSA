@@ -27,6 +27,7 @@
 | [0137-single-number-ii](https://github.com/animesh68/LarpingDSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/animesh68/LarpingDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh68/LarpingDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/animesh68/LarpingDSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/animesh68/LarpingDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/animesh68/LarpingDSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/animesh68/LarpingDSA/tree/master/0200-number-of-islands) |
@@ -89,6 +90,7 @@
 | [0049-group-anagrams](https://github.com/animesh68/LarpingDSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/animesh68/LarpingDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/animesh68/LarpingDSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/animesh68/LarpingDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/animesh68/LarpingDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/animesh68/LarpingDSA/tree/master/0268-missing-number) |
@@ -141,6 +143,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/animesh68/LarpingDSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/animesh68/LarpingDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/animesh68/LarpingDSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/animesh68/LarpingDSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -243,6 +246,7 @@
 | [0016-3sum-closest](https://github.com/animesh68/LarpingDSA/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/animesh68/LarpingDSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/animesh68/LarpingDSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/animesh68/LarpingDSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/animesh68/LarpingDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/animesh68/LarpingDSA/tree/master/0242-valid-anagram) |
@@ -257,6 +261,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/animesh68/LarpingDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/animesh68/LarpingDSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/animesh68/LarpingDSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/animesh68/LarpingDSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh68/LarpingDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/animesh68/LarpingDSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -559,4 +564,8 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/animesh68/LarpingDSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/animesh68/LarpingDSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/animesh68/LarpingDSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/animesh68/LarpingDSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
