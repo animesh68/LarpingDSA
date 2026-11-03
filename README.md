@@ -63,6 +63,7 @@
 | [1631-path-with-minimum-effort](https://github.com/animesh68/LarpingDSA/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/animesh68/LarpingDSA/tree/master/1710-maximum-units-on-a-truck) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/animesh68/LarpingDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/animesh68/LarpingDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/animesh68/LarpingDSA/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/animesh68/LarpingDSA/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/animesh68/LarpingDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/animesh68/LarpingDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/animesh68/LarpingDSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/animesh68/LarpingDSA/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
