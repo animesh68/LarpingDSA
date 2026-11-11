@@ -138,6 +138,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/animesh68/LarpingDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0409-longest-palindrome) |
 | [1710-maximum-units-on-a-truck](https://github.com/animesh68/LarpingDSA/tree/master/1710-maximum-units-on-a-truck) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/animesh68/LarpingDSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Queue
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 | [2235-add-two-integers](https://github.com/animesh68/LarpingDSA/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/animesh68/LarpingDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/animesh68/LarpingDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/animesh68/LarpingDSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/animesh68/LarpingDSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/animesh68/LarpingDSA/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
