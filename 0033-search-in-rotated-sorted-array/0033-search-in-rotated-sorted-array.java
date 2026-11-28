@@ -11,7 +11,7 @@ class Solution {
                 else low = guess+1;
             }
             else{
-                if(nums[guess]<target && target<=nums[high]) low = guess+1;
+                if(nums[guess]<target && target <= nums[high]) low = guess+1;
                 else high = guess-1;
             }
         }
