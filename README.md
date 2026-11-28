@@ -68,6 +68,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/animesh68/LarpingDSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/animesh68/LarpingDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/animesh68/LarpingDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/animesh68/LarpingDSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/animesh68/LarpingDSA/tree/master/0125-valid-palindrome) |
@@ -363,6 +365,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/animesh68/LarpingDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
